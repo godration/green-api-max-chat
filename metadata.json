@@ -1,0 +1,6 @@
+{
+  "name": "MAX Messenger • GREEN-API",
+  "description": "Веб-интерфейс для обмена текстовыми сообщениями в мессенджере MAX на базе сервиса GREEN-API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
